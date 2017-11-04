@@ -1,25 +1,8 @@
-Test a site.
+Docs for test
+=============
 
+The latest dcoumentation is available under [here](README.md).
 
-a
-=
-
-b
--
-
-c
--
-
-
-# s
-
-## s
-
-### s
-
-```bash
-echo "dddd"
-```
-
-[ ] ddd
-[ ] ddd
+Versions
+- [0.1.0](0.1.0/README.md)
+- [0.2.0](0.2.0/README.md)
