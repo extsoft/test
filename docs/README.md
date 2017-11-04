@@ -11,9 +11,14 @@ Paragraph 1
 -----------
 ....
 ### Info imp
-...
+```bash
+cd ~
+ls -1 
+cd -
+ls -1
+```
 ### Info opt
-...
+The `ls -1` command...
 
 Paragraph 2
 -----------
