@@ -25,4 +25,4 @@ Paragraph 3
 
 Versioning
 ----------
-This document provides information for the latest master version. If you need the documentation of a specific version, please open visit [`https://github.com/extsoft/test/blob/0.4.0/docs/README.md`]() where `0.4.0` is desired verion.
+This document provides information for the latest master version. If you need the documentation of a specific version, please open visit [`https://github.com/extsoft/test/blob/0.4.0/docs/README.md`](https://github.com/extsoft/test/blob/0.4.0/docs/README.md) where `0.4.0` is desired verion.
