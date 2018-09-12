@@ -1,1 +1,4 @@
-# test
+# Test project
+
+For experiments only!
+
