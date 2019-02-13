@@ -1,12 +1,12 @@
 merge:
-  script: |
+  script: |-
     echo merge
     git branch
 deploy:
-  script: |
+  script: |-
     echo deploy
     git branch
 release:
-  script: |
+  script: |-
     echo deploy
     git branch
