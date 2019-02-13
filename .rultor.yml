@@ -2,11 +2,14 @@ merge:
   script: |-
     echo merge
     git branch
+    git log --oneline
 deploy:
   script: |-
     echo deploy
     git branch
+    git log --oneline
 release:
   script: |-
     echo deploy
     git branch
+    git log --oneline
